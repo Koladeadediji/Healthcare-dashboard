@@ -11,7 +11,7 @@ Data Cleaning and Transformation
 I performed Data cleaning and transformation to ensure the consistency of the dataset. This includes removing empty columns to make sure I am not processing a zero data, ensuring there's no outlier, also ensuring there's no duplicate data and the data was ready for processing.
 
 Analysis and Insights
-I conducted an in-depth analysis of the dataset to extract meaningful insights that could aid decision -making. This shows in the dashboard I was able to project in `Healthcare dataset project `
+I conducted an in-depth analysis of the dataset to extract meaningful insights that could aid decision -making. This shows in the dashboard I was able to project in `Healthcare dataset project.pbix `
 
 
 
